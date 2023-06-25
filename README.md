@@ -1,12 +1,10 @@
 ### Olá! Eu sou a Amanda Novais 👋
 
--📚 Atualmente estou estudando desenvolvimento web
-
--🖊️ Estudando React e Node
-
--📧 Contate-me no e-mail: amandanovais784@gmail.com
-
--😃 Pronomes: Ela/Dela
+- 🎓 Estudante de Ciência da Computação
+- 📚 Atualmente estou aprofundando em desenvolvimento web
+- 🖊️ Focada em seguir meus estudos em React e Node
+- 📧 Contate-me no e-mail: amandanovais784@gmail.com
+- 😃 Pronomes: Ela/Dela
 
 ##
 
